@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #fef9ef;
+  color: var(--color-zinc-100);
+}

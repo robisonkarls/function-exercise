@@ -1,0 +1,48 @@
+# .NET
+bin/
+obj/
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+*.user
+*.suo
+.vs/
+
+# Build output
+out/
+publish/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+
+# Environment
+.env
+.env.*
+appsettings.Local.json
+appsettings.*.Local.json
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+coverage/
+*.trx
+*.coveragexml
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.iml
